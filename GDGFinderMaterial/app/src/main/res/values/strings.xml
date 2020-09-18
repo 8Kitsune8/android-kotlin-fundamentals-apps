@@ -56,4 +56,6 @@
     <string name="submitted">Submitted, no need to submit again</string>
     <string name="done">Done</string>
     <string name="submit">Submit</string>
+    <string name="main_image_description">Photo from a GDG event</string>
+    <string name="photo_gdg_team">Photo of a GDG team</string>
 </resources>

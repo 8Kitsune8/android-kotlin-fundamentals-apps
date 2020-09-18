@@ -54,4 +54,6 @@
     <string name="submitted">Enviado, no hay necesidad de enviar de nuevo</string>
     <string name="done">Hecho</string>
     <string name="submit">Enviar</string>
+    <string name="main_image_description">Foto de un evento GDG</string>
+    <string name="photo_gdg_team">Foto de un equipo GDG</string>
 </resources>
